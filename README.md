@@ -7,3 +7,5 @@ J1 sarakkeeseen saa laittaa kwh kulutuksen jota käytetään laskennassa.
 Hinnat sisältävät alv veron
 
 makrot pitää sallia koska käyttää vba:ta json viestin hakuun
+Käyttää apuna https://github.com/VBA-tools/VBA-JSON?form=MG0AV3
+jsonconnect.bas fileä
