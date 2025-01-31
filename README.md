@@ -5,3 +5,5 @@ Päivitä namiskalla hakee uudet päivät Porssisahko.net sivustolta.
 aikaväli näyttää mikä aikaväli filteröitynä taulukosta, ja laskee summan siltä ajalta.
 J1 sarakkeeseen saa laittaa kwh kulutuksen jota käytetään laskennassa.
 Hinnat sisältävät alv veron
+
+makrot pitää sallia koska käyttää vba:ta json viestin hakuun
